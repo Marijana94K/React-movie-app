@@ -14,8 +14,10 @@ npm install
 npm start
 
 # Built with
- *React
- *Typescript
+ React
+ Typescript
+ HTML
+ CSS
  
  
  
