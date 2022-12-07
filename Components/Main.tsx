@@ -57,10 +57,10 @@ const Main = () => {
                     href="#"
                     key={pos}
                     id={value}
-                    onClick={(e) => {
+                    onClick={() => {
                      
                         
-                      getData(e.target);
+                      getData(value);
                       
                       
                     }}
